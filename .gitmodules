@@ -5,6 +5,9 @@
 [submodule "boral"]
 	path = boral
 	url = https://github.com/cran/boral
+[submodule "gdam"]
+	path = gdam
+	url = https://github.com/fhui28/gdam
 [submodule "rpql"]
 	path = rpql
 	url = https://github.com/cran/rpql
